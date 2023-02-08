@@ -3,7 +3,7 @@
 <p><img src="https://store-images.microsoft.com/image/apps.5776.13510798882863495.a272fbc4-ffa3-4878-9602-509559f9eaba.1537a623-da5b-4809-83fe-f50b0ab003f3?mode=scale&amp;q=90&amp;h=300&amp;w=300" style="height:30px; width:30px" /><strong><em>Sell Our Souls!&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Version: 1.0&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Date: 01/12/2022</em></strong></p>
 
 <ul>
-	<li><strong>Description: </strong><em>&nbsp;Ez egy egyszerű Plugin CS1.6 szerverekre! Adjuk el a lelk&uuml;nket k&uuml;l&ouml;nb f&eacute;le dolgok&eacute;rt!&nbsp;</em></li>
+	<li><strong>Leírás: </strong><em>&nbsp;Ez egy egyszerű Plugin CS1.6 szerverekre! Adjuk el a lelk&uuml;nket k&uuml;l&ouml;nb f&eacute;le dolgok&eacute;rt!&nbsp;</em></li>
 	<li><strong>Cvarok:&nbsp;</strong></li>
 </ul>
 
