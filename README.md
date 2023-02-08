@@ -1,9 +1,43 @@
-<p style="text-align: center;"><em><strong>&nbsp;<span style="font-size: 14pt; font-family: 'times new roman', times;">Adjuk el a lelk&uuml;nket! &nbsp; &nbsp; &nbsp; &nbsp;Version: 1.0 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Date: 01/12/2022</span></strong></em></p>
-<p style="text-align: center;"><span style="font-size: 14pt; font-family: 'times new roman', times;"><em><strong>(Sell Our Souls!)</strong></em></span></p>
-<ul style="list-style-type: circle;">
-<li style="text-align: left;"><span style="font-family: calibri, sans-serif;"><strong>Description:&nbsp;</strong><em> Ez egy egyszerű Plugin CS1.6 szerverekre! Adjuk el a lelk&uuml;nket k&uuml;l&ouml;nb f&eacute;le dolgok&eacute;rt!&nbsp;</em></span></li>
-<li style="text-align: left;"><span style="font-family: calibri, sans-serif;"><strong>Cvarok:</strong></span><br />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;sos_dollar "10"<br />Mennyi HP-ba keruljon a 10000$?<br />&nbsp; &nbsp; &nbsp;<br />sos_vegtelenammo "5"<br />Mennyi HP-ba keruljon a Vegtelen Ammo?<br /><br />sos_lopakodas "10"<br />Mennyi HP-ba keruljon a Lopakodas?<br /><br />sos_alruha "25"<br />Mennyi HP-ba keruljon az Alruha?<br />&nbsp;*<br />sos_lathatatlansag "50"<br />Mennyi HP-ba keruljon a Lathatatlansag?<br />&nbsp;* &nbsp; &nbsp; &nbsp; &nbsp;<br />sos_noclip "25"<br />Mennyi HP-ba keruljon a NoClip?<br />&nbsp;*<br />sos_bhop "50"<br />Mennyi HP-ba keruljon az AUTOBhop?</li>
+<p><img src="https://i.imgur.com/4M7IWwP.gif" style="width:800px" /></p>
+<p><strong><em>&nbsp;</em></strong><strong><em>Adjuk el a lelk&uuml;nket!&nbsp; &nbsp; &nbsp; &nbsp; Version: 1.0&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Date: 01/12/2022</em></strong></p>
+
+<p><strong><em>(Sell Our Souls!)</em></strong></p>
+
+<ul>
+	<li><strong>Description: </strong><em>&nbsp;Ez egy egyszerű Plugin CS1.6 szerverekre! Adjuk el a lelk&uuml;nket k&uuml;l&ouml;nb f&eacute;le dolgok&eacute;rt!&nbsp;</em></li>
+	<li><strong>Cvarok:&nbsp;</strong></li>
 </ul>
-<p><br />sos_buyzone "1" (0/1)<br />Csak vasarlasi zonaban nyiljon meg a menu?<br />0:Nem<br />1:Igen(Alap)</p>
-<p><br />sos_buytime "1" (0/1)<br />Csak vasarlasi idoben nyiljon meg a menu?<br />0:Nem<br />1:Igen(Alap)</p>
-<p style="text-align: right;"><strong><span style="font-size: 9pt;"><em>Creat by: *S1MPLA</em></span></strong></p>
+
+<p><em><span style="font-size:12px">s</span>os_dollar &quot;10&quot;</em><br />
+<strong>Mennyi HP-ba keruljon a 10000$?</strong></p>
+
+<p><em>sos_vegtelenammo &quot;5&quot;</em><br />
+<strong>Mennyi HP-ba keruljon a Vegtelen Ammo?</strong></p>
+
+<p><em>sos_lopakodas &quot;10&quot;</em><br />
+<strong>Mennyi HP-ba keruljon a Lopakodas?</strong></p>
+
+<p>sos_alruha &quot;25&quot;<br />
+<strong>Mennyi HP-ba keruljon az Alruha?</strong></p>
+
+<p><em>sos_lathatatlansag &quot;50&quot;</em><br />
+<strong>Mennyi HP-ba keruljon a Lathatatlansag?</strong></p>
+
+<p><em>sos_noclip &quot;25&quot;</em><br />
+<strong>Mennyi HP-ba keruljon a NoClip?</strong></p>
+
+<p><em>sos_bhop &quot;50&quot;</em><br />
+<strong>Mennyi HP-ba keruljon az AUTOBhop?</strong></p>
+
+<p><em>sos_buyzone &quot;1&quot; (0/1)</em><br />
+<strong>Csak vasarlasi zonaban nyiljon meg a menu?</strong></p>
+
+<p><em>sos_buytime &quot;1&quot; (0/1)</em><br />
+<strong>Csak vasarlasi idoben nyiljon meg a menu?</strong></p>
+
+<ul>
+	<li><strong>Telep&iacute;t&eacute;s: </strong><em>A szok&aacute;sos m&oacute;don!</em></li>
+</ul>
+
+<p><strong><em>Creat by: *S1MPLA</em></strong></p>
+<p><img src="https://i.imgur.com/4M7IWwP.gif" style="width:800px" /></p>
