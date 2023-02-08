@@ -31,12 +31,16 @@
 <p><em><span style="font-size:12px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span>sos_buyzone &quot;1&quot; (0/1)</em><br />
 <em><span style="font-size:12px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span></em><strong>Csak v&aacute;s&aacute;rl&aacute;si zon&aacute;ban ny&iacute;ljon meg a men&uuml;?</strong></p>
 
-<p><em><span style="font-size:12px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span>sos_buytime &quot;1&quot; (0/1)</em><br />
+<p><em><span style="font-size:12px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span>sos_buytime &quot;1&quot; <span style="font-size:14px">(0/1)</span></em><br />
 <em><span style="font-size:12px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span></em><strong>Csak v&aacute;s&aacute;rl&aacute;si időben ny&iacute;ljon meg a men&uuml;?</strong></p>
 
 <ul>
-	<li><strong>Telep&iacute;t&eacute;s: </strong><em>A szok&aacute;sos m&oacute;don!</em></li>
+	<li><strong>Telep&iacute;t&eacute;s:</strong></li>
 </ul>
+
+<p><em><span style="font-size:12px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span></em><span style="font-size:12px"><em><strong>SMA Fl&aacute;j</strong> --&gt; cstrike/addons/amxmodx/scripting</em></span><br />
+<em><span style="font-size:12px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span></em><span style="font-size:12px"><em><strong>AMXX&nbsp; Fl&aacute;j</strong>--&gt; cstrike/addons/amxmodx/plugins</em></span><br />
+<em><span style="font-size:12px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span></em><span style="font-size:12px"><em><strong>S1MPLA Mappa</strong> --&gt; cstrike/sound</em></span></p>
 
 <p><strong><em>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="font-size:11px">Creat by: *S1MPLA</span></em></strong></p>
 
