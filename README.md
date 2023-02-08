@@ -1,5 +1,6 @@
 <p><img src="https://i.imgur.com/4M7IWwP.gif" style="width:800px" /></p>
-<p><strong><em>&nbsp;</em></strong><strong><em>Adjuk el a lelk&uuml;nket!&nbsp; &nbsp; &nbsp; &nbsp; Version: 1.0&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Date: 01/12/2022</em></strong></p>
+
+<p><img src="https://store-images.microsoft.com/image/apps.5776.13510798882863495.a272fbc4-ffa3-4878-9602-509559f9eaba.1537a623-da5b-4809-83fe-f50b0ab003f3?mode=scale&amp;q=90&amp;h=300&amp;w=300" style="height:30px; width:30px" /><strong><em>Adjuk el a lelk&uuml;nket!&nbsp; &nbsp; &nbsp; &nbsp; Version: 1.0&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Date: 01/12/2022</em></strong></p>
 
 <p><strong><em>(Sell Our Souls!)</em></strong></p>
 
@@ -40,4 +41,5 @@
 </ul>
 
 <p><strong><em>Creat by: *S1MPLA</em></strong></p>
+
 <p><img src="https://i.imgur.com/4M7IWwP.gif" style="width:800px" /></p>
