@@ -47,8 +47,8 @@
 	<li><strong>Telep&iacute;t&eacute;s:</strong></li>
 </ul>
 
-<p><em><span style="font-size:12px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span></em><span style="font-size:12px"><em><strong>SMA Fl&aacute;j</strong> --&gt; cstrike/addons/amxmodx/scripting</em></span><br />
-<em><span style="font-size:12px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span></em><span style="font-size:12px"><em><strong>AMXX&nbsp; Fl&aacute;j</strong>--&gt; cstrike/addons/amxmodx/plugins</em></span><br />
+<p><em><span style="font-size:12px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span></em><span style="font-size:12px"><em><strong>SMA Fájl</strong> --&gt; cstrike/addons/amxmodx/scripting</em></span><br />
+<em><span style="font-size:12px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span></em><span style="font-size:12px"><em><strong>AMXX&nbsp; Fájl</strong>--&gt; cstrike/addons/amxmodx/plugins</em></span><br />
 <em><span style="font-size:12px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span></em><span style="font-size:12px"><em><strong>S1MPLA Mappa</strong> --&gt; cstrike/sound</em></span></p>
 
 <p><strong><em>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="font-size:11px">Creat by: *S1MPLA</span></em></strong></p>
