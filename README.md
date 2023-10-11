@@ -50,7 +50,10 @@
 <p><em><span style="font-size:12px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span></em><span style="font-size:12px"><em><strong>SMA Fájl</strong> --&gt; cstrike/addons/amxmodx/scripting</em></span><br />
 <em><span style="font-size:12px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span></em><span style="font-size:12px"><em><strong>AMXX&nbsp; Fájl</strong>--&gt; cstrike/addons/amxmodx/plugins</em></span><br />
 <em><span style="font-size:12px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span></em><span style="font-size:12px"><em><strong>S1MPLA Mappa</strong> --&gt; cstrike/sound</em></span></p>
-
+<ul>
+	<li><strong>Parancsok:</strong></li>
+</ul>
+<p><em><span style="font-size:12px">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span></em><span style="font-size:12px"><em><strong>/sos</strong> --&gt; A bolt megnyitása</em></span><br />
 <p><strong><em>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="font-size:11px">Creat by: *S1MPLA</span></em></strong></p>
 
 <p><img src="https://images.squarespace-cdn.com/content/v1/5177069ae4b084b94e497172/1628040030560-19F1WWBUM9S9MDP5Z3G8/rainbow+divider.gif?format=500w" style="height:30px; width:800px" /></p>
